@@ -1,0 +1,26 @@
+.box{
+    width: 400px;
+    border: 1px solid blue;
+    border-radius: 3px;
+    padding: 15px 15px 15px 15px;
+}
+.box button{
+    color: white;
+    background-color: rgb(68, 68, 129);
+    padding: 2px 2px 4xpx 2px;
+    font-size: 20px;
+}
+
+.box span{
+    color: coral;
+}
+
+.box img{
+    height: 400px;
+    width: 400px;
+}
+.maincontent{
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+}
